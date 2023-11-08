@@ -1,0 +1,11 @@
+.productsWrapper {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 30px;
+  }
+ .card {
+    background: white;
+    padding: 20px;
+    text-align: center;
+    border-radius: 10px;
+  }
